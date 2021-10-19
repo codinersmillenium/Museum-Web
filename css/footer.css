@@ -1,0 +1,10 @@
+.banner2 {
+    margin-left: -385px;
+    width: 163%;
+    height: 75vh;
+    border: 1px solid;
+    background-image: url('../gambar/footer.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
